@@ -1,0 +1,10 @@
+drug_a,drug_b,severity,description,source
+warfarin,aspirin,major,Increased bleeding risk when combined,drugbank
+simvastatin,grapefruit,moderate,Grapefruit increases statin levels,drugbank
+lithium,ibuprofen,moderate,NSAIDs can increase lithium levels,drugbank
+acetaminophen,isoniazid,moderate,Potential liver toxicity when combined,drugbank
+clopidogrel,omeprazole,major,Omeprazole reduces the effect of clopidogrel,drugbank
+digoxin,verapamil,major,Verapamil increases digoxin levels and risk of toxicity,drugbank
+metformin,cimetidine,moderate,Cimetidine may increase metformin levels,drugbank
+alcohol,metronidazole,major,Alcohol with metronidazole may cause severe nausea and vomiting,drugbank
+theophylline,ciprofloxacin,major,Ciprofloxacin increases theophylline levels,drugbank
